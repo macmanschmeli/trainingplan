@@ -151,6 +151,9 @@ function addOption(select, value, label) {
   option.textContent = label;
   select.append(option);
 }
-function setText(selector, value) { document.querySelector(selector).textContent = value; }
+function setText(selector, value) {
+  const element = document.querySelector(selector);
+  if (element) element.textContent = value;
+}
 
 document.addEventListener('DOMContentLoaded', initTrainingPlan);

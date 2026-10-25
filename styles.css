@@ -26,3 +26,7 @@ h1 span{color:var(--red)}
 
 /* Nur der Akzent im Titel ist rot. */
 #title-prefix{color:var(--text)}
+
+body{background:transparent}
+body:before{content:none}
+.noise{display:none}
