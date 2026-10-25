@@ -1,0 +1,349 @@
+{
+  "pageTitle": "Südstadt volleyteam — Trainingsplan",
+  "eyebrow": "Wochenübersicht",
+  "titlePrefix": "Trainings",
+  "titleAccent": "plan.",
+  "description": "Finde dein Team, wähle deine Halle und behalte alle Trainingszeiten im Blick.",
+  "weekTitle": "Deine Woche",
+  "teamFilters": [
+    {
+      "label": "Alle Teams",
+      "value": "all"
+    },
+    {
+      "label": "Damen",
+      "value": "Damen"
+    },
+    {
+      "label": "Herren",
+      "value": "Herren"
+    },
+    {
+      "label": "U16",
+      "value": "U16"
+    },
+    {
+      "label": "U18",
+      "value": "U18"
+    },
+    {
+      "label": "Beginners",
+      "value": "Beginners"
+    }
+  ],
+  "hallFilterLabel": "Halle",
+  "allHallsLabel": "Alle Hallen",
+  "halls": [
+    "Modeschule",
+    "Bachgasse",
+    "Perchtoldsdorf",
+    "Südstadt",
+    "Guntramsdorf",
+    "Europahalle",
+    "Altort"
+  ],
+  "days": [
+    {
+      "name": "Montag",
+      "events": [
+        {
+          "team": "U18-2W",
+          "filterTeams": [
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "17:00",
+          "end": "19:00"
+        },
+        {
+          "team": "Herren 1",
+          "filterTeams": [
+            "Herren"
+          ],
+          "category": "Allgemein",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "19:00",
+          "end": "22:00"
+        },
+        {
+          "team": "Burschen Beginners",
+          "filterTeams": [
+            "Beginners"
+          ],
+          "category": "Einsteiger",
+          "hall": "Bachgasse",
+          "hallFilter": "Bachgasse",
+          "start": "17:00",
+          "end": "18:30"
+        },
+        {
+          "team": "U16M / U18M",
+          "filterTeams": [
+            "U16",
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Bachgasse",
+          "hallFilter": "Bachgasse",
+          "start": "18:30",
+          "end": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Dienstag",
+      "events": [
+        {
+          "team": "Damen 2",
+          "filterTeams": [
+            "Damen"
+          ],
+          "category": "Damen",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "17:00",
+          "end": "19:00"
+        },
+        {
+          "team": "Herren 2",
+          "filterTeams": [
+            "Herren"
+          ],
+          "category": "Herren",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "19:00",
+          "end": "22:00"
+        },
+        {
+          "team": "Damen 1",
+          "filterTeams": [
+            "Damen"
+          ],
+          "category": "Damen",
+          "hall": "Perchtoldsdorf",
+          "hallFilter": "Perchtoldsdorf",
+          "start": "18:30",
+          "end": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Mittwoch",
+      "events": [
+        {
+          "team": "U16W",
+          "filterTeams": [
+            "U16"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "17:30",
+          "end": "19:30"
+        },
+        {
+          "team": "U18-1W",
+          "filterTeams": [
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Guntramsdorf",
+          "hallFilter": "Guntramsdorf",
+          "start": "17:30",
+          "end": "19:30"
+        },
+        {
+          "team": "U18-2W",
+          "filterTeams": [
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "BG Bachgasse",
+          "hallFilter": "Bachgasse",
+          "start": "18:30",
+          "end": "20:00"
+        },
+        {
+          "team": "U20W / Damen 2",
+          "filterTeams": [
+            "Damen"
+          ],
+          "category": "Damen",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "19:30",
+          "end": "22:00"
+        },
+        {
+          "team": "Herren 2",
+          "filterTeams": [
+            "Herren"
+          ],
+          "category": "Herren",
+          "hall": "Ma.Enz Altort",
+          "hallFilter": "Altort",
+          "start": "19:30",
+          "end": "22:00"
+        },
+        {
+          "team": "Herren 1",
+          "filterTeams": [
+            "Herren"
+          ],
+          "category": "Herren",
+          "hall": "Südstadt",
+          "hallFilter": "Südstadt",
+          "start": "19:30",
+          "end": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Donnerstag",
+      "events": [
+        {
+          "team": "U18-1W",
+          "filterTeams": [
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "17:00",
+          "end": "19:00"
+        },
+        {
+          "team": "Burschen Beginners",
+          "filterTeams": [
+            "Beginners"
+          ],
+          "category": "Einsteiger",
+          "hall": "Europahalle MÖ",
+          "hallFilter": "Europahalle",
+          "start": "17:00",
+          "end": "19:30"
+        },
+        {
+          "team": "U16W",
+          "filterTeams": [
+            "U16"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Perchtoldsdorf",
+          "hallFilter": "Perchtoldsdorf",
+          "start": "17:00",
+          "end": "19:30"
+        },
+        {
+          "team": "Mädls Beginners",
+          "filterTeams": [
+            "Beginners"
+          ],
+          "category": "Einsteiger",
+          "hall": "Perchtoldsdorf",
+          "hallFilter": "Perchtoldsdorf",
+          "start": "17:00",
+          "end": "19:30"
+        },
+        {
+          "team": "U16M / U18M",
+          "filterTeams": [
+            "U16",
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "BG Bachgasse",
+          "hallFilter": "Bachgasse",
+          "start": "18:30",
+          "end": "21:00"
+        },
+        {
+          "team": "Damen 1",
+          "filterTeams": [
+            "Damen"
+          ],
+          "category": "Damen",
+          "hall": "Modeschule",
+          "hallFilter": "Modeschule",
+          "start": "19:30",
+          "end": "22:00"
+        },
+        {
+          "team": "Herren 1",
+          "filterTeams": [
+            "Herren"
+          ],
+          "category": "Herren",
+          "hall": "Südstadt",
+          "hallFilter": "Südstadt",
+          "start": "19:30",
+          "end": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Freitag",
+      "events": [
+        {
+          "team": "Mädls Beginners",
+          "filterTeams": [
+            "Beginners"
+          ],
+          "category": "Einsteiger",
+          "hall": "BG Bachgasse",
+          "hallFilter": "Bachgasse",
+          "start": "17:00",
+          "end": "18:30"
+        },
+        {
+          "team": "Burschen Beginners",
+          "filterTeams": [
+            "Beginners"
+          ],
+          "category": "Einsteiger",
+          "hall": "Europahalle",
+          "hallFilter": "Europahalle",
+          "start": "16:30",
+          "end": "18:30"
+        },
+        {
+          "team": "U16W",
+          "filterTeams": [
+            "U16"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Perchtoldsdorf",
+          "hallFilter": "Perchtoldsdorf",
+          "start": "17:30",
+          "end": "20:00"
+        },
+        {
+          "team": "U18-1W",
+          "filterTeams": [
+            "U18"
+          ],
+          "category": "Nachwuchs",
+          "hall": "Südstadt",
+          "hallFilter": "Südstadt",
+          "start": "19:30",
+          "end": "22:00"
+        },
+        {
+          "team": "Hobbits",
+          "filterTeams": [
+            "Hobbits"
+          ],
+          "category": "Team",
+          "hall": "Altort",
+          "hallFilter": "Altort",
+          "start": "19:30",
+          "end": "22:00"
+        }
+      ]
+    }
+  ]
+}
